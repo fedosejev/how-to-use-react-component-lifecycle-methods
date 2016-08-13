@@ -1,7 +1,7 @@
 # Example of how to use component lifecycle methods in React.js.
 
 + Tutorial: (coming soon)
-+ See it in action: (coming soon)
++ See it in action: https://fedosejev.github.io/how-to-use-react-component-lifecycle-methods/
 
 ## Install
 
