@@ -26,7 +26,7 @@ let Application = React.createClass({
     
     let style = {
       marginTop: '40px',
-      marginBottom: '10px'
+      marginBottom: '0px'
     };
 
     return (
